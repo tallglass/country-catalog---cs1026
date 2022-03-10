@@ -1,0 +1,4 @@
+Country|Continent|Population|Area
+United_States_of_America|North_America||9,629,091
+China||1,339,190,000|9,596,960
+Japan|Asia|127,380,000|
